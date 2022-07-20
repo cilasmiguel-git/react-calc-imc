@@ -1,8 +1,8 @@
 # calculadora de IMC
 projeto em REACT + typescript
 
-###instalação
+### instalação
 npm install
 
-###para rodar
+### para rodar
 npm start
